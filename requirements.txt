@@ -1,0 +1,10 @@
+Pillow==9.2.0
+folium==0.12.1
+geopy==2.2.0
+numpy==1.24.0
+overpy
+requests==2.31.0
+streamlit
+streamlit_drawable_canvas
+streamlit_folium
+ultralytics

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# Secrets — never commit API keys
+secret.json
+.streamlit/secrets.toml
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files (download separately)
+*.pt
+*.pkl

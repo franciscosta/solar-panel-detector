@@ -1,7 +1,7 @@
 # HuggingSUN ☀️ — Solar Panel Detection & Services App
 
 <p align="center">
-  <img src="assets/HuggingSUN.png" alt="HuggingSUN Logo" width="200"/>
+  <img src="assets/HuggingSUN1.png" alt="HuggingSUN Logo" width="200"/>
 </p>
 
 > **Course:** Advanced Topics in Machine Learning | Nova School of Business & Economics

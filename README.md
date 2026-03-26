@@ -185,20 +185,6 @@ python src/main.py --address "..." --zoom 18
 
 ---
 
-## Security Notes
-
-- 🔒 **Never commit API keys** — use environment variables or `.streamlit/secrets.toml`
-- 🔒 `secret.json` is listed in `.gitignore` and should never be pushed
-- 🔒 Model `.pt` files are excluded from the repo due to size — download from Hugging Face
-
----
-
-## Acknowledgements
-
-The YOLOv8 solar panel detection model is based on the open-source work by [Ariel Drabkin](https://github.com/ArielDrabkin/Solar-Panel-Detector), deployed on [Hugging Face Spaces](https://huggingface.co/spaces/ArielDrabkin/Solar-Panel-Detector).
-
----
-
 ## Course
 
 Advanced Topics in Machine Learning — Nova School of Business & Economics, 2024/25

@@ -1,5 +1,9 @@
 # HuggingSUN ☀️ — Solar Panel Detection & Services App
 
+<p align="center">
+  <img src="assets/HuggingSUN.png" alt="HuggingSUN Logo" width="200"/>
+</p>
+
 > **Course:** Advanced Topics in Machine Learning | Nova School of Business & Economics
 > **Type:** Group Project | **Team:** Group 2 TXA
 
@@ -35,7 +39,13 @@ The application serves two customer segments:
 
 ## App Preview
 
-> The app takes an address as input, fetches the satellite image, runs the YOLOv8 model, and overlays a green mask on detected solar panels — along with area and cost estimates.
+The app takes an address as input, fetches the satellite image via Google Maps, runs the YOLOv8 model, and overlays a **green mask on detected solar panels** — along with area and maintenance cost estimates.
+
+<p align="center">
+  <img src="assets/app_preview.png" alt="HuggingSUN App Preview — Nova SBE rooftop with detected solar panels highlighted in green" width="900"/>
+</p>
+
+> Example: Nova SBE campus rooftop — solar panels detected and highlighted in green, with area and annual maintenance cost estimated automatically.
 
 ---
 
